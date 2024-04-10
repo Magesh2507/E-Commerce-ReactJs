@@ -1,0 +1,184 @@
+[
+    {
+      "id": 1,
+      "productName": "Camera",
+      "price": 19.99,
+      "imageURL": "./images/camera.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "Printer",
+      "price": 29.99,
+      "imageURL": "./images/printer.png"
+    },
+    {
+      "id": 3,
+      "productName": "Projector",
+      "price": 39.99,
+      "imageURL": "./images/projector.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "Monitor",
+      "price": 49.99,
+      "imageURL": "./images/monitor.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Router",
+      "price": 59.99,
+      "imageURL": "./images/router.png"
+    },
+    {
+      "id": 6,
+      "productName": "Refrigerator",
+      "price": 69.99,
+      "imageURL": "./images/fridge.jpg"
+    },
+    {
+      "id": 7,
+      "productName": "TV",
+      "price": 79.99,
+      "imageURL": "./images/tv.jpg"
+    },
+    {
+      "id": 8,
+      "productName": "Washing Machine",
+      "price": 89.99,
+      "imageURL": "./images/washing_machine.jpg"
+    },
+    {
+      "id": 9,
+      "productName": "Smart Watch",
+      "price": 99.99,
+      "imageURL": "./images/smart-watch.jpg"
+    },
+    {
+      "id": 10,
+      "productName": "Mobile",
+      "price": 109.99,
+      "imageURL": "./images/mobile.jpg"
+    },
+    {
+      "id": 11,
+      "productName": "Camera",
+      "price": 19.99,
+      "imageURL": "./images/camera.jpg"
+    },
+    {
+      "id": 12,
+      "productName": "Printer",
+      "price": 29.99,
+      "imageURL": "./images/printer.png"
+    },
+    {
+      "id": 13,
+      "productName": "Projector",
+      "price": 39.99,
+      "imageURL": "./images/projector.jpg"
+    },
+    {
+      "id": 14,
+      "productName": "Monitor",
+      "price": 49.99,
+      "imageURL": "./images/monitor.jpg"
+    },
+    {
+      "id": 15,
+      "productName": "Router",
+      "price": 59.99,
+      "imageURL": "./images/router.png"
+    },
+    {
+      "id": 16,
+      "productName": "Refrigerator",
+      "price": 69.99,
+      "imageURL": "./images/fridge.jpg"
+    },
+    {
+      "id": 17,
+      "productName": "TV",
+      "price": 79.99,
+      "imageURL": "./images/tv.jpg"
+    },
+    {
+      "id": 18,
+      "productName": "Washing Machine",
+      "price": 89.99,
+      "imageURL": "./images/washing_machine.jpg"
+    },
+    {
+      "id": 19,
+      "productName": "Smart Watch",
+      "price": 99.99,
+      "imageURL": "./images/smart-watch.jpg"
+    },
+    {
+      "id": 20,
+      "productName": "Mobile",
+      "price": 109.99,
+      "imageURL": "./images/mobile.jpg"
+    },
+    {
+      "id": 21,
+      "productName": "Camera",
+      "price": 19.99,
+      "imageURL": "./images/camera.jpg"
+    },
+    {
+      "id": 22,
+      "productName": "Printer",
+      "price": 29.99,
+      "imageURL": "./images/printer.png"
+    },
+    {
+      "id": 23,
+      "productName": "Projector",
+      "price": 39.99,
+      "imageURL": "./images/projector.jpg"
+    },
+    {
+      "id": 24,
+      "productName": "Monitor",
+      "price": 49.99,
+      "imageURL": "./images/monitor.jpg"
+    },
+    {
+      "id": 25,
+      "productName": "Router",
+      "price": 59.99,
+      "imageURL": "./images/router.png"
+    },
+    {
+      "id": 26,
+      "productName": "Refrigerator",
+      "price": 69.99,
+      "imageURL": "./images/fridge.jpg"
+    },
+    {
+      "id": 27,
+      "productName": "TV",
+      "price": 79.99,
+      "imageURL": "./images/tv.jpg"
+    },
+    {
+      "id": 28,
+      "productName": "Washing Machine",
+      "price": 89.99,
+      "imageURL": "./images/washing_machine.jpg"
+    },
+    {
+      "id": 29,
+      "productName": "Smart Watch",
+      "price": 99.99,
+      "imageURL": "./images/smart-watch.jpg"
+    },
+    {
+      "id": 30,
+      "productName": "Mobile",
+      "price": 109.99,
+      "imageURL": "./images/mobile.jpg"
+    }
+  
+  ]
+  
