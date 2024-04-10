@@ -14,7 +14,7 @@ const Header = () => {
         <ul>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/viewcart">View Cart</Link></li>
-            <li><Link to="/viewcart"><span>{cart.length}</span></Link></li>
+            {cart.length>0 && <li><Link to="/viewcart"><span>{cart.length}</span></Link></li>}
         </ul>
 
     </div>
